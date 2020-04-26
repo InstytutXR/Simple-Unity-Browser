@@ -1,4 +1,5 @@
-# unity_browser
+# Simple-Unity-Browser
+
 Open source Unity3d web browser created by Vitaly Chashin https://bitbucket.org/vitaly_chashin/simpleunitybrowser and fixed buld crashes by Stulov Dmitry https://bitbucket.org/ShadowTeolog/simpleunitybrowser. 
 
 ## Basic setup
